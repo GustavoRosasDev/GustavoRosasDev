@@ -93,9 +93,9 @@
 
 </details>
 
-<!-- Share and Colaborate Tools -->
+<!-- Sharing and Collaboration Tools -->
 <details>
-  <summary><strong>🤝 Share and colaborate tools</strong></summary>
+  <summary><strong>🤝 Sharing and collaboration tools</strong></summary>
 
 <!-- Deploy -->
 | Deploy | Level |
