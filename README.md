@@ -151,7 +151,7 @@
 ## Featured projects
 | Project | Language | Description |
 | ------- | --------- | --------- |
-| [PreSec](https://github.com/GustavoRosasDev/presec) |  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) | <b>PreSec</b> is a pre-programmed security tool. |
+| [PreSec](https://github.com/GustavoRosasDev/presec) |  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) | <b>PreSec</b> is a pre-programmable security tool. |
 | [iCrypt](https://github.com/GustavoRosasDev/iCrypt) |  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) | <b>iCrypt</b> is a versatile encryption and decryption tool designed to enhance the privacy and security of your data. |
 
 ## Contact
