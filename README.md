@@ -151,8 +151,10 @@
 ## Featured projects
 | Project | Language | Description |
 | ------- | --------- | --------- |
-| [PreSec](https://github.com/GustavoRosasDev/presec) |  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) | <b>PreSec</b> is a pre-programmable security tool. |
+| [Analyzr](https://github.com/GustavoRosasDev/Analyzr) |  ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | <b>Analyzr</b> simplifies and accelerates web log analysis on Linux. |
+| [ControlAD](https://github.com/GustavoRosasDev/ControlAD) |  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white) | <b>ControlAD</b> automates and simplifies Active Directory management on Windows Server. |
 | [iCrypt](https://github.com/GustavoRosasDev/iCrypt) |  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) | <b>iCrypt</b> is a versatile encryption and decryption tool designed to enhance the privacy and security of your data. |
+| [PreSec](https://github.com/GustavoRosasDev/presec) |  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) | <b>PreSec</b> is a pre-programmable security tool. |
 
 ## Contact
 > Let's connect and ~~drink a ☕~~ create `awesome_things.py` together!
