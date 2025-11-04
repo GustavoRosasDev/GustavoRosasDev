@@ -19,9 +19,8 @@
 <br>
 
 - :office: &nbsp;Currently, I'm working as a freelancer on **<a href="https://www.workana.com/freelancer/78cf241ce52e9e5d1dce63fc5642b0e5">Workana</a>**
-- :coffee: &nbsp;Currently, I'm drinking coffee to finalize next **<a href="https://github.com/GustavoRosasDev?tab=repositories">open-source project</a>**
-- :shield: &nbsp;Currently, I'm taking a **<a href="https://hackersdobem.org.br/">cybersecurity specialization course</a>**
-- :book: &nbsp;Check out my full portfolio on my **<a href="https://gustavorosaspro.wixsite.com/meu-portfolio">website</a>**
+- :shield: &nbsp;I recently completed a six-month **<a href="https://hackersdobem.org.br/">cybersecurity technology residency</a>**
+- :book: &nbsp;Check out my <a href="https://gustavorosaspro.wixsite.com/meu-portfolio">**old portfolio**</a> — a collection of past projects and experiences that reflect my early journey in tech.
 - :mailbox: &nbsp;Ask me anything on my **<a href="https://github.com/GustavoRosasDev/GustavoRosasDev/issues">issues page</a>**
 - :computer: &nbsp;Connect with me on **<a href="https://www.linkedin.com/in/gustavorosas-/">LinkedIn</a>**
 - :speech_balloon: &nbsp;I like to talk about **Technology** (🤖), **Innovative Ideas** (🧠), **Personal Growth** (🚀) and **Pets** (🐱🐶).
